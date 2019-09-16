@@ -1,7 +1,0 @@
-<p><br></p><div><div class="col-xs-12"><div class="calcite-web"><div class="card-base card-wide"><div class="card-wide-image-wrap"><img alt="Bridge Club, 1954" class="card-wide-image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBEdI3QG0Mp3EfyT4P-iXHdsBsJ6RogmKNnhixzjWpFbSXWRf">
-          </div><div class="card-content"><h3 style="text-align: center; "><strong><br>&nbsp;Healthy Corner Store Development</strong></h3>
-          <h4 style="text-align: center; ">&nbsp;&nbsp;&nbsp;&nbsp;What Is the Healthy Corner Store Initiative?<strong>
-</strong></h4><p style="text-align: left;">The goal of The Food Trust’s Healthy Corner Store Initiative is to expand the sale and marketing of
-&nbsp;<span style="color: currentcolor;">affordable, nutritious food in corner stores in lower-income communities, which often have the lowest&nbsp;</span><span style="color: currentcolor;">access to healthy foods and the highest rates of diet-related disease.</span></p></div></div></div></div></div><div><br></div><div><a href="http://#http://thefoodtrust.org/uploads/media_items/supporting-healthy-corner-store-development-in-new-jersey-1.original.pdf" class="btn btn-primary" target="_blank">Button</a></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>
-
-<div class="container" style="text-align: center; "><br></div>
